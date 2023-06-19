@@ -1,0 +1,13 @@
+//BlogSystem
+C:\xampp\htdocs\BlogSystem\database\migrations
+C:\xampp\htdocs\BlogSystem\app ----model
+C:\xampp\htdocs\BlogSystem\resources\views\layouts\backend
+C:\xampp\htdocs\BlogSystem\app\Http\Controllers
+
+
+// ranshare
+C:\xampp\htdocs\ranshare
+C:\xampp\htdocs\ranshare\app\Models 
+C:\xampp\htdocs\ranshare\app\Http\Controllers
+C:\xampp\htdocs\ranshare\resources\views\layouts\frontend
+C:\xampp\htdocs\ranshare\resources\views\layouts\backend
